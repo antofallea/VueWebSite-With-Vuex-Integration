@@ -1,0 +1,72 @@
+.card{
+    height:92% !important;
+    border-radius: 2em !important;
+    text-align: center !important;
+    box-shadow: 0 5px 10px rgba(0,0,0,.2) !important;
+}
+.lubrificante{
+    max-width: 20% !important;
+    margin-top: 3px !important;
+    margin-bottom: 15px !important;
+}
+.batteria{
+    max-width: 30% !important;
+    margin: 0 auto !important;
+}
+.Title{
+    color:gray;
+}
+.card-customer{
+    background-color: #198754;
+    border-color:gray;
+    border-radius: 2em !important;
+    box-shadow: 0 5px 10px rgba(0,0,0,.2) !important;
+    max-height: 1000px;
+    max-width: 500px;
+}
+.card-img-top{
+    background-color: white !important;
+    max-height: 100px;
+    max-width: 50px;
+    padding:7px;
+    height:95% !important;
+    border-radius: 2em !important;
+    text-align: center !important;
+    box-shadow: 0 5px 10px rgba(0,0,0,.2) !important;
+}
+.TitleMarchi{
+    color:white !important;
+}
+.MarchiImg{
+    max-height: 60px !important;
+    padding: 7px !important;
+    border-radius: 2em !important;
+    background-color: white !important;
+}
+.buy{
+    text-align: center !important;
+}
+.table{
+    text-align: center;
+    font-size: 20px;
+    max-width: 65% !important;
+}
+.amount{
+    border-radius : 2em;
+    background-color:#198754;
+    color:white;
+    max-width: 100px;
+    max-height: 240px;
+}
+.bi-cart-fill{
+    padding-left:8px;
+    padding-bottom:4px;
+    width: 30%;
+    height: 18%;
+}
+.changeSize{
+    max-width: 30% !important;
+}
+
+
+
